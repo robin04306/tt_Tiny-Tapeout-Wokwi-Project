@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
-- [Read the documentation for project](docs/info.md)
+Wokwi project using a D flip flop to display "EFAB" on the 7 segment display
 
 ## What is Tiny Tapeout?
 
